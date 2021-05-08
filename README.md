@@ -1,13 +1,12 @@
-Hello 👋
+Hello 👋<br>
 
-I am Hikmet Oğuzkan Kaptan, a computer engineering student at Istanbul University - Cerrahpasa.
+I am Hikmet Oğuzkan Kaptan, a computer engineering student at Istanbul University - Cerrahpasa.<br>
 
-I am currently learning web developement, specifically javascript. 
-I publish some of my personal projects on here.
-Currently  looking for internships.
+I am currently learning web developement, specifically javascript.<br> 
+I publish some of my personal projects on here.<br>
+Currently  looking for internships.<br>
 
-My contact information:
-
+My contact information:<br>
 h.oguzkankaptan@gmail.com<br>
 linkedin.com/in/oguzkan-kaptan 
 
