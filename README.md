@@ -9,6 +9,6 @@ Currently looking for internships.<br>
 ## My contact information:<br>
 
 h.oguzkankaptan@gmail.com<br>
-[linkedin.com/in/oguzkan-kaptan](linkedin.com/in/oguzkan-kaptan)<br>
+[linkedin.com/in/oguzkan-kaptan](https://www.linkedin.com/in/oguzkan-kaptan)<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzkanK)](https://github.com/OguzkanK/github-readme-stats)
