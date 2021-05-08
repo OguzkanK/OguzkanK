@@ -1,2 +1,2 @@
 # Profile-Info
-Information to display on my profile
+Information to display on my profile.
