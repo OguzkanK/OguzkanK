@@ -7,6 +7,8 @@ I publish some of my personal projects on here.
 Currently  looking for internships.
 
 My contact information:
+
 h.oguzkankaptan@gmail.com
+
 linkedin.com/in/oguzkan-kaptan 
 
