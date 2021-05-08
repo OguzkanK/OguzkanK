@@ -8,7 +8,6 @@ Currently  looking for internships.
 
 My contact information:
 
-h.oguzkankaptan@gmail.com
-
+h.oguzkankaptan@gmail.com<br>
 linkedin.com/in/oguzkan-kaptan 
 
