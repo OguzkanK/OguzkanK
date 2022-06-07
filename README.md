@@ -10,5 +10,6 @@ Currently looking for internships.<br>
 
 h.oguzkankaptan@gmail.com<br>
 [linkedin.com/in/oguzkan-kaptan](https://www.linkedin.com/in/oguzkan-kaptan)<br>
+[https://oguzkank.itch.io](https://oguzkank.itch.io)<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzkanK)](https://github.com/OguzkanK/github-readme-stats)
