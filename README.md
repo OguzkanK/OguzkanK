@@ -13,4 +13,4 @@ h.oguzkankaptan@gmail.com<br>
 ## My Itch.io page:<br>
 [https://oguzkank.itch.io](https://oguzkank.itch.io)<br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzkanK)](https://github.com/OguzkanK/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzkanK&layout=compact)](https://github.com/OguzkanK/github-readme-stats)
