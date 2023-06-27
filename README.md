@@ -1,10 +1,9 @@
 ## Hello 👋<br>
 
-I am Hikmet Oğuzkan Kaptan, a computer engineering student at Istanbul University - Cerrahpasa.<br>
+I am a software engineer working at Moka. I graduated from Istanbul University. I am a hard working and highly motivated person who looks for every opportunity to improve himself.<br>
 
 I am currently interested in game developement.<br>
 I publish some of my personal projects on here.<br>
-Currently looking for internships.<br>
 
 ## My Email:<br>
 h.oguzkankaptan@gmail.com<br>
