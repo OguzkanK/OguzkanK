@@ -1,6 +1,6 @@
 ## Hello 👋<br>
 
-I am a software engineer working at Moka. I graduated from Istanbul University. I am a hard working and highly motivated person who looks for every opportunity to improve himself.<br>
+I am a software engineer.<br>
 
 I am currently interested in game developement.<br>
 I publish some of my personal projects on here.<br>
